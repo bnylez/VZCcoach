@@ -1,8 +1,8 @@
 # config.py
 
 # Email credentials and server settings
-EMAIL_ACCOUNT = "vzccoach@gmail.com"
-APP_PASSWORD = "kfmb snsx qdid mvoa"  # Consider using an app password (especially with 2FA)
+EMAIL_ACCOUNT = "xxxxxxxxxx@gmail.com"
+APP_PASSWORD = "xxxx xxxx xxxx xxxx"  # Consider using an app password (especially with 2FA)
 IMAP_SERVER = "imap.gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
